@@ -2,13 +2,16 @@
 
 ### Electronics & Communication Engineering Graduate | Embedded Systems Enthusiast
 
-## About Me
+### 💫 About Me
 
-I'm a B.Tech graduate in Electronics and Communication Engineering,
-interested in Embedded Systems, Firmware Development, and IoT.
+🔭 Building and exploring **embedded systems and firmware development projects**
 
-Currently, I'm strengthening my skills in C, C++, Embedded C,
-RTOS, Linux, and microcontroller-based development.
+🌱 Developing my skills in **Embedded C, microcontrollers, RTOS, and Linux**
+
+⚙️ Interested in **hardware interfacing, communication protocols, and low-level programming**
+
+⚡ Passionate about **understanding how electronic systems work and turning ideas into practical projects**
+
 
 ## 🛠️ Tech Stack
 
