@@ -13,14 +13,16 @@
 ⚡ Passionate about **understanding how electronic systems work and turning ideas into practical projects**
 
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-- **Programming:** C, C++, Embedded C, Python
-- **Microcontrollers:** PIC18F4580, ESP32, Arduino
-- **Embedded:** GPIO, ADC, Timers, Interrupts, Sensor Interfacing
-- **Communication Protocols:** CAN, UART, SPI, I2C
-- **Tools:** MPLAB X IDE, XC8, GCC, KiCad
-- **Operating Systems:** Linux, Windows
+* **Programming Languages:** C (Primary – Embedded/Firmware Development), C++ (Basic OOP Concepts), Python (Basics)
+* **Microcontrollers & Platforms:** PIC18F4580, ESP32, Arduino
+* **Communication Protocols & Interfaces:** CAN, UART, SPI, I²C, GPIO, ADC, Timers, Interrupts
+* **Tools & Development Environment:** MPLAB X IDE, XC8 Compiler, GCC, KiCad
+* **RTOS / OS Concepts:** FreeRTOS, Linux Basics
+* **Hardware & Interfacing:** Sensor Interfacing, 16×2 CLCD, Digital Keypad, Hardware/Software Integration
+* **Embedded Concepts:** Interrupt Service Routines (ISR), Polling, Timing, Modular Firmware Development
+
 
 ## 📫 Connect With Me
 
