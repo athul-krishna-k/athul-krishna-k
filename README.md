@@ -1,6 +1,6 @@
-# Hi 👋, I'm Athul Krishna K
+## 👋 Hi, I'm Athul Krishna K
 
-### Electronics & Communication Engineering Graduate | Embedded Systems Enthusiast
+**🎯 Electronics & Communication Engineering Graduate | Embedded C | Firmware Development | Microcontrollers | RTOS | IoT**
 
 ### 💫 About Me
 
@@ -22,7 +22,6 @@
 * **RTOS / OS Concepts:** FreeRTOS, Linux Basics
 * **Hardware & Interfacing:** Sensor Interfacing, 16×2 CLCD, Digital Keypad, Hardware/Software Integration
 * **Embedded Concepts:** Interrupt Service Routines (ISR), Polling, Timing, Modular Firmware Development
-
 
 ## 📫 Connect With Me
 
