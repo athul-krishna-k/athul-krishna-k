@@ -18,3 +18,9 @@ RTOS, Linux, and microcontroller-based development.
 - **Communication:** CAN, UART, SPI, I2C
 - **Tools:** MPLAB X IDE, XC8, GCC, KiCad
 - **Operating Systems:** Linux, Windows
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/athulkrishna--k)
+- [GitHub](https://github.com/athul-krishna-k)
+- Email: athulkrishnak1905@gmail.com
