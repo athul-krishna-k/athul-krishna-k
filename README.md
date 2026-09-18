@@ -15,7 +15,7 @@ RTOS, Linux, and microcontroller-based development.
 - **Programming:** C, C++, Embedded C, Python
 - **Microcontrollers:** PIC18F4580, ESP32, Arduino
 - **Embedded:** GPIO, ADC, Timers, Interrupts, Sensor Interfacing
-- **Communication:** CAN, UART, SPI, I2C
+- **Communication Protocols:** CAN, UART, SPI, I2C
 - **Tools:** MPLAB X IDE, XC8, GCC, KiCad
 - **Operating Systems:** Linux, Windows
 
